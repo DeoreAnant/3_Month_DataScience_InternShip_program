@@ -1,1 +1,1 @@
-# 3 Month `DataScience InternShip` programme
+# 3 Month `DataScience InternShip` program
